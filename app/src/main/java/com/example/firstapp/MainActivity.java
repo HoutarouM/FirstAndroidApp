@@ -7,7 +7,13 @@ import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    /*
+    * 1. pobrac z off strony
+    2. codelabs tutoriale google
+    3. tryb android przechownie lokalizajzi jak na uzadzeniu
+    4. tryb project jak na komputerze
+    5. android zaczyna wyszukiwanie (sprawdza czy mozna to zrobic)
+    *  */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
